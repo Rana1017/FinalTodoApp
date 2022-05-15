@@ -1,5 +1,5 @@
 # FinalTodoApp
-1. ![Initial](https://user-images.githubusercontent.com/92968057/168479372-4150a1a9-13c3-4cde-8c8e-16add298a118.gif)
-2.![update](https://user-images.githubusercontent.com/92968057/168479896-50e28ead-f82d-4f63-9551-2c362745a15c.gif)
-3.![delete](https://user-images.githubusercontent.com/92968057/168479922-00847d77-64ce-4dd2-a783-0c894cbc29b8.gif)
-4.![search](https://user-images.githubusercontent.com/92968057/168479936-72947243-21a9-4410-85f0-3cd288b2ba68.gif)
+![Initial](https://user-images.githubusercontent.com/92968057/168479372-4150a1a9-13c3-4cde-8c8e-16add298a118.gif)
+![update](https://user-images.githubusercontent.com/92968057/168479896-50e28ead-f82d-4f63-9551-2c362745a15c.gif)
+![delete](https://user-images.githubusercontent.com/92968057/168479922-00847d77-64ce-4dd2-a783-0c894cbc29b8.gif)
+![search](https://user-images.githubusercontent.com/92968057/168479936-72947243-21a9-4410-85f0-3cd288b2ba68.gif)
