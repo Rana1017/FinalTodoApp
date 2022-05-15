@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Your Notes</string>
+    <string name="landing_page_info">Copyright @ Top Rana 2022</string>
+    <string name="app_title">Your Notes</string>
+    <string name="app_moto">Always write down and prioritize your ideas.\n\nBe innovative and unique.</string>
+    <string name="add_notes">Add note button</string>
+    <string name="add_title">Title here</string>
+    <string name="add_subtitle">Enter your subtitle</string>
+    <string name="add_description">Description here..</string>
+    <string name="add_note_btn">Add note</string>
+    <string name="update_note_btn">Update Note</string>
+    <string name="priority">Priority</string>
+    <string name="delete">delete_btn</string>
+    <string name="delete_info">Do you want to delete ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">21 Jan, 2022</string>
+    <string name="search_text">Search here..</string>
+    <string name="oops">Add here !</string>
+    <string name="not_found">Looks like you haven\'t added any notes</string>
+</resources>
