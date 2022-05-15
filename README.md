@@ -7,4 +7,4 @@
 ![delete](https://user-images.githubusercontent.com/92968057/168479922-00847d77-64ce-4dd2-a783-0c894cbc29b8.gif)
 # Search
 ![search](https://user-images.githubusercontent.com/92968057/168479936-72947243-21a9-4410-85f0-3cd288b2ba68.gif)
-<img src="gif/delete.gif" width="600"/>
+<img src="gif/delete.gif" width="300"/>
